@@ -1,2 +1,4 @@
-# SAP-ABAP-Projects
-My SAP ABAP projects including ALV reports and Smart Forms.
+# SAP ABAP Projects
+This repository contains my SAP ABAP projects, including:
+- ALV report for sales orders
+- Smart Form for purchase orders
